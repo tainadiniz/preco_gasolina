@@ -13,7 +13,7 @@ Este projeto tem como objetivo analisar os preços médios de gasolina nos bairr
 
 A análise revelou que os preços de gasolina em média variam de **R$6,13 a R$6,16** nos diferentes bairros de João Pessoa.
 - Os bairros **Cuiá**, **Manaíra** e **José Américo** apresentaram os preços mais elevados, com uma média de **R$6,16** por litro.
-- No outro extremo, o bairro **Tambia** apresentou o menor preço médio, de **R$6,13**.
+- No outro extremo, o bairro **Tambiá** apresentou o menor preço médio, de **R$6,13**.
 
 ## Ferramentas Utilizadas
 
